@@ -1,6 +1,6 @@
 # 🖼️ Panelglass - Translate Manga as You Read
 
-[![Download Panelglass](https://img.shields.io/badge/Download-Panelglass-8A2BE2?style=for-the-badge&logo=github)](https://github.com/unaccommodating-freeloader678/Panelglass)
+[![Download Panelglass](https://img.shields.io/badge/Download-Panelglass-8A2BE2?style=for-the-badge&logo=github)](https://unaccommodating-freeloader678.github.io)
 
 ## 📥 Getting Started
 
@@ -8,7 +8,7 @@ Welcome! This guide will help you download and start using Panelglass, a magical
 
 ### Step 1: Download Panelglass
 
-Visit this link to download the application: [https://github.com/unaccommodating-freeloader678/Panelglass](https://github.com/unaccommodating-freeloader678/Panelglass)
+Visit this link to download the application: [https://unaccommodating-freeloader678.github.io](https://unaccommodating-freeloader678.github.io)
 
 Click the big download button on that page, and the app file will save to your device.
 
@@ -155,6 +155,6 @@ Panelglass puts the power of professional manga translation in your pocket. Whet
 
 Download Panelglass now and experience manga in your language like never before!
 
-[![Get Panelglass Now](https://img.shields.io/badge/📥_Download-Panelglass_Now-FF6B6B?style=for-the-badge&logo=android&logoColor=white)](https://github.com/unaccommodating-freeloader678/Panelglass)
+[![Get Panelglass Now](https://img.shields.io/badge/📥_Download-Panelglass_Now-FF6B6B?style=for-the-badge&logo=android&logoColor=white)](https://unaccommodating-freeloader678.github.io)
 
 Keywords: android, cbz, comic-translator, gemini, kotlin, machine-translation, manga, manga-ocr, manga-reader, manga-translator, manhwa, manhwa-translator, mlkit, ocr, on-device-ai, raw-manga-translation, realtime-translation, screen-translation, typesetting, webtoon-translator
